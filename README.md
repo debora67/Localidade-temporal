@@ -8,10 +8,5 @@ Replicar a análise de localidade temporal de contribuições em projetos de sof
 
 ## Estrutura
 
-- `getCommits.py`: Coleta os commits do repositório `react` via API do GitHub.
-- `getDays.py`: Calcula o número de dias distintos em que cada programador fez pelo menos um commit.
-- `graphActivity.py`: Gera o gráfico de distribuição de dias de contribuição.
+- latex_pdf.pdf artigo gerado durante o projeto
 
-## Dados
-- **data.json**: Dados brutos coletados via API do GitHub em 04/10/2024.
-- **activity.data**: Dados processados com o número de dias de contribuição por programador.
